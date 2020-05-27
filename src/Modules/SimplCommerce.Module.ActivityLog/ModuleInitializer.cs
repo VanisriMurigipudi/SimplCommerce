@@ -8,6 +8,9 @@ using SimplCommerce.Module.ActivityLog.Data;
 using SimplCommerce.Module.ActivityLog.Events;
 using SimplCommerce.Module.Core.Events;
 
+
+        //Test Check-in
+        //abcd
 namespace SimplCommerce.Module.ActivityLog
 {
     public class ModuleInitializer : IModuleInitializer
